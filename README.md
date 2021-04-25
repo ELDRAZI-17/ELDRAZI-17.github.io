@@ -3,7 +3,7 @@
 ELDRAZI-17 :
 https://eldrazi-17.github.io
 
-Deck Magic blanc/noir zombie :
+Deck Magic Blanc/Noir Zombie :
 https://eldrazi-17.github.io/mtg-deck/
 
 What what what what :
