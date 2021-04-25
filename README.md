@@ -1,4 +1,4 @@
-My github pages.
+<h2>My github pages.</h2>
 
 ELDRAZI-17.github.io :
 https://eldrazi-17.github.io
@@ -8,3 +8,5 @@ https://eldrazi-17.github.io/Blanc-Noir-Zombie
 
 What what what what :
 https://eldrazi-17.github.io/what
+
+Please follow me <a href="https://github.com/ELDRAZI-17" target="_blank">on Github</a> and <a href="https://scratch.mit.edu/users/ELDRAZI-17/" target="_blank">on Scratch</a>.
