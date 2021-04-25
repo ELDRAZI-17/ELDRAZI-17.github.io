@@ -1,6 +1,6 @@
 <h2>My github pages.</h2>
 
-ELDRAZI-17.github.io :
+ELDRAZI-17 :
 https://eldrazi-17.github.io
 
 Deck Magic blanc/noir zombie :
