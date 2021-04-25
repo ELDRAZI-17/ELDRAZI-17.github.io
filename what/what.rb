@@ -16,7 +16,14 @@ MAIS TU AS RÉUSSI CAMARADE ! ✌️
  
 Après tu peux aussi partager le lien de la page, https://eldrazi-17.github.io/what/, pour voir si les autres sont assez intelligent pour trouver le truc. 😁
  
+ 
 Allez salut ! 😉
+ 
+ 
+ 
+ELDRAZI-17
+ 
+ 
  
  
 Si tu veux je met ça pour toi :
