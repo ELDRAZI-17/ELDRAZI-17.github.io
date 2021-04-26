@@ -5,6 +5,10 @@
 ////////////////////
 ------------------
  
+ 
+If you want, you can share the link with your friends, eldrazi-17.github.io/what/, maybe they are less intelligent than you...
+ 
+ 
 ░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄
 ░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄
 ░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█
